@@ -1,0 +1,10 @@
+{
+  "port": "",
+  "logDir": "/var/log/backend-template",
+  "timezone": "",
+  "serviceName": "",
+  "headers": {
+    "correlationId": "X-Correlation-Id",
+    "authorization": "Authorization"
+  }
+}
